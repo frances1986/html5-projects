@@ -1,23 +1,24 @@
 body {
-  background-color: turquoise; 
+  background-image:turquoise ; 
+  background-image: url("https://cdn.hipwallpaper.com/i/85/85/Xh2FH3.jpg");
 }
 h1 {
   color:red;
-  font-family:vernada;
+  font-family:fantasy;
   font-size:60px;
+  font-weight:bold;
+  border:5px solid maroon
  }
     h2 {
-      font-family:vernada;
+      font-family:fantasy;
       font-size:30px;
       color: orange;
     }
 p {
   color: orange;
 }
-    img{ border: 2px solid maroon;
+    img{ border: 30px solid maroon;
+      padding:50px;
     }
 
-img{
-  width:50%;
-  height:auto;
 }
