@@ -1,0 +1,23 @@
+body {
+  background-color: turquoise; 
+}
+h1 {
+  color:red;
+  font-family:vernada;
+  font-size:60px;
+ }
+    h2 {
+      font-family:vernada;
+      font-size:30px;
+      color: orange;
+    }
+p {
+  color: orange;
+}
+    img{ border: 2px solid maroon;
+    }
+
+img{
+  width:50%;
+  height:auto;
+}
